@@ -1,3 +1,5 @@
+# Simple Flask Hellow World sample code
+
 from flask import Flask
 app = Flask(__name__)
 
