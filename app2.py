@@ -1,3 +1,5 @@
+# Flask Restful Hello World sample code
+
 from flask import Flask
 from flask.ext import restful
 
